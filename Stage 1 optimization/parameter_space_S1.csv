@@ -1,0 +1,9 @@
+,parameters,minimum,maximum
+0,V_mG1,50,150
+1,V_mGK,340,400
+2,V_mPDH,30,60
+3,k_HYD,0.05,0.09
+4,k_PMCA,27,60
+5,a_1,130,250
+6,K_mPyr,0.01,0.1
+7,V_O,30,75
