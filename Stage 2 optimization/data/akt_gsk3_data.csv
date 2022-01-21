@@ -1,0 +1,5 @@
+Time (min),Time (sec),AKT activity,AKTp(fraction),GSK3alpha activity,GSK3(fraction),GSK3beta activity,AKTp,GSK3p
+0,0,100,1,100,1,100,0.01,0.46
+5,300,351.02,3.51,59.93,0.63,62.96,0.51,1.03
+10,600,223.97,2.24,64.39,0.61,61.39,0.23,0.92
+30,1800,101.53,1.01,68.7,0.57,56.64,0.06,0.8

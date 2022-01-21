@@ -1,0 +1,5 @@
+Time (hr),Time (sec),insulin mRNA,insulin mRNA fraction
+0,0,100,1
+12,43200,93.63,0.94
+24,86400,75.25,0.75
+48,172800,38.22,0.38
